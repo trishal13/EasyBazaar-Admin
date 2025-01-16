@@ -1,3 +1,24 @@
+# EasyBazaar Admin Panel
+
+This repository contains the admin panel for EasyBazaar, an e-commerce platform designed to connect customers with local vendors. The admin panel allows administrators to manage products, categories, users, and orders efficiently.
+
+## Features
+
+- **Dashboard**: Overview of key metrics and recent activities.
+- **Product Management**: Add, update, delete, and view products.
+- **Category Management**: Organize products into categories.
+- **User Management**: Manage customer and vendor accounts.
+- **Order Management**: View and process customer orders.
+- **Authentication**: Secure login for administrators.
+
+## Technologies Used
+
+- **React.js**: JavaScript library for building user interfaces.
+- **Redux**: State management for React applications.
+- **React Router**: Routing library for React applications.
+- **Axios**: Promise-based HTTP client for API requests.
+- **Bootstrap**: CSS framework for responsive design.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
